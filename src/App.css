@@ -1,0 +1,13 @@
+@import "../node_modules/@syncfusion/ej2-base/styles/tailwind.css";
+@import "../node_modules/@syncfusion/ej2-inputs/styles/tailwind.css";
+@import "../node_modules/@syncfusion/ej2-buttons/styles/tailwind.css";
+@import "../node_modules/@syncfusion/ej2-popups/styles/tailwind.css";
+@import "../node_modules/@syncfusion/ej2-navigations/styles/tailwind.css";
+@import "../node_modules/@syncfusion/ej2-react-interactive-chat/styles/tailwind.css";
+
+.container {
+  height: 380px;
+  width: 450px;
+  margin-left: 400px;
+  margin-top: 50px;
+}
